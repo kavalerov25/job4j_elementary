@@ -17,7 +17,7 @@ public class SqAreaTest {
 
     @Test
     public void square1() {
-        int expected = 1;
+        int expected = 2;
         int p = 4;
         int k = 1;
         double out = SqArea.square(p, k);
