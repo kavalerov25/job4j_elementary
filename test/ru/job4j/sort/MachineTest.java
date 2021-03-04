@@ -1,10 +1,9 @@
-package ru.job4j.array;
+package ru.job4j.sort;
 
 import org.junit.Test;
 
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
-import java.util.Arrays;
 
 public class MachineTest {
     @Test

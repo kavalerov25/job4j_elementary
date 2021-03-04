@@ -1,4 +1,4 @@
-package ru.job4j.array;
+package ru.job4j.sort;
 
 import java.util.Arrays;
 
